@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\bin\Debug\net8.0\3DArray.exe
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\bin\Debug\net8.0\3DArray.deps.json
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\bin\Debug\net8.0\3DArray.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\bin\Debug\net8.0\3DArray.dll
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\bin\Debug\net8.0\3DArray.pdb
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\3DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\3DArray.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\3DArray.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\3DArray.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\3DArray.dll
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\refint\3DArray.dll
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\3DArray.pdb
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\3DArray.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\3DArray\3DArray\obj\Debug\net8.0\ref\3DArray.dll
