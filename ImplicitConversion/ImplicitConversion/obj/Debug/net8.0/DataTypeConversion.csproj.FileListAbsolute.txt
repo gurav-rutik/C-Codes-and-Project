@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\DataTypeConversion.exe
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\DataTypeConversion.deps.json
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\DataTypeConversion.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\DataTypeConversion.dll
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\DataTypeConversion.pdb
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\DataTypeConversion.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\DataTypeConversion.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\DataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\DataTypeConversion.dll
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\refint\DataTypeConversion.dll
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\DataTypeConversion.pdb
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\DataTypeConversion.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ref\DataTypeConversion.dll

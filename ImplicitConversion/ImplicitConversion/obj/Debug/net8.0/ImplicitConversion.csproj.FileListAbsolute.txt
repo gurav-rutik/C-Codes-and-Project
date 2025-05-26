@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.exe
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.deps.json
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.dll
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.pdb
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.dll
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\refint\ImplicitConversion.dll
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.pdb
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ref\ImplicitConversion.dll
