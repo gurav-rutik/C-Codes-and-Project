@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\bin\Debug\net8.0\DebugException.exe
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\bin\Debug\net8.0\DebugException.deps.json
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\bin\Debug\net8.0\DebugException.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\bin\Debug\net8.0\DebugException.dll
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\bin\Debug\net8.0\DebugException.pdb
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\DebugException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\DebugException.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\DebugException.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\DebugException.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\DebugException.dll
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\refint\DebugException.dll
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\DebugException.pdb
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\DebugException.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\DebugException\DebugException\obj\Debug\net8.0\ref\DebugException.dll

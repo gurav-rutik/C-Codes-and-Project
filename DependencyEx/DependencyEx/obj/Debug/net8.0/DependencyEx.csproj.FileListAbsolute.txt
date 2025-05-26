@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\bin\Debug\net8.0\DependencyEx.exe
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\bin\Debug\net8.0\DependencyEx.deps.json
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\bin\Debug\net8.0\DependencyEx.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\bin\Debug\net8.0\DependencyEx.dll
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\bin\Debug\net8.0\DependencyEx.pdb
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\DependencyEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\DependencyEx.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\DependencyEx.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\DependencyEx.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\DependencyEx.dll
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\refint\DependencyEx.dll
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\DependencyEx.pdb
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\DependencyEx.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\DependencyEx\DependencyEx\obj\Debug\net8.0\ref\DependencyEx.dll
