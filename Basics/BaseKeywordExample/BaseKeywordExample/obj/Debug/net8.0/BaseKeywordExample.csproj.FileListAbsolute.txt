@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\bin\Debug\net8.0\BaseKeywordExample.exe
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\bin\Debug\net8.0\BaseKeywordExample.deps.json
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\bin\Debug\net8.0\BaseKeywordExample.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\bin\Debug\net8.0\BaseKeywordExample.dll
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\bin\Debug\net8.0\BaseKeywordExample.pdb
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\BaseKeywordExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\BaseKeywordExample.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\BaseKeywordExample.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\BaseKeywordExample.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\BaseKeywordExample.dll
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\refint\BaseKeywordExample.dll
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\BaseKeywordExample.pdb
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\BaseKeywordExample.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\net8.0\ref\BaseKeywordExample.dll
