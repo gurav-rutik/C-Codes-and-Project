@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\bin\Debug\net8.0\CreatingHolderOnPC.exe
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\bin\Debug\net8.0\CreatingHolderOnPC.deps.json
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\bin\Debug\net8.0\CreatingHolderOnPC.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\bin\Debug\net8.0\CreatingHolderOnPC.dll
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\bin\Debug\net8.0\CreatingHolderOnPC.pdb
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\CreatingHolderOnPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\CreatingHolderOnPC.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\CreatingHolderOnPC.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\CreatingHolderOnPC.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\CreatingHolderOnPC.dll
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\refint\CreatingHolderOnPC.dll
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\CreatingHolderOnPC.pdb
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\CreatingHolderOnPC.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\CreatingHolderOnPC\CreatingHolderOnPC\obj\Debug\net8.0\ref\CreatingHolderOnPC.dll

@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\bin\Debug\net8.0\CountDigits.exe
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\bin\Debug\net8.0\CountDigits.deps.json
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\bin\Debug\net8.0\CountDigits.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\bin\Debug\net8.0\CountDigits.dll
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\bin\Debug\net8.0\CountDigits.pdb
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\CountDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\CountDigits.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\CountDigits.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\CountDigits.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\CountDigits.dll
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\refint\CountDigits.dll
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\CountDigits.pdb
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\CountDigits.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\CountDigits\CountDigits\obj\Debug\net8.0\ref\CountDigits.dll

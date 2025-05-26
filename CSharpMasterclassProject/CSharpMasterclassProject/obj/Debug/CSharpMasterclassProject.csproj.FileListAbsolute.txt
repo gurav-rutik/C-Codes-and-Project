@@ -1,0 +1,8 @@
+C:\Users\RutikGurav\source\repos\CSharpMasterclassProject\CSharpMasterclassProject\bin\Debug\CSharpMasterclassProject.exe.config
+C:\Users\RutikGurav\source\repos\CSharpMasterclassProject\CSharpMasterclassProject\bin\Debug\CSharpMasterclassProject.exe
+C:\Users\RutikGurav\source\repos\CSharpMasterclassProject\CSharpMasterclassProject\bin\Debug\CSharpMasterclassProject.pdb
+C:\Users\RutikGurav\source\repos\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.csproj.AssemblyReference.cache
+C:\Users\RutikGurav\source\repos\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.exe
+C:\Users\RutikGurav\source\repos\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.pdb
+C:\Users\RutikGurav\source\repos\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.exe.config
