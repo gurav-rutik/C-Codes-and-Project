@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\bin\Debug\net8.0\FoEachLoop.exe
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\bin\Debug\net8.0\FoEachLoop.deps.json
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\bin\Debug\net8.0\FoEachLoop.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\bin\Debug\net8.0\FoEachLoop.dll
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\bin\Debug\net8.0\FoEachLoop.pdb
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\FoEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\FoEachLoop.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\FoEachLoop.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\FoEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\FoEachLoop.dll
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\refint\FoEachLoop.dll
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\FoEachLoop.pdb
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\FoEachLoop.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\FoEachLoop\FoEachLoop\obj\Debug\net8.0\ref\FoEachLoop.dll
