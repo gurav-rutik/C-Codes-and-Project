@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\bin\Debug\net8.0\IsARelationship.exe
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\bin\Debug\net8.0\IsARelationship.deps.json
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\bin\Debug\net8.0\IsARelationship.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\bin\Debug\net8.0\IsARelationship.dll
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\bin\Debug\net8.0\IsARelationship.pdb
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\IsARelationship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\IsARelationship.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\IsARelationship.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\IsARelationship.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\IsARelationship.dll
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\refint\IsARelationship.dll
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\IsARelationship.pdb
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\IsARelationship.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\IsARelationship\IsARelationship\obj\Debug\net8.0\ref\IsARelationship.dll
