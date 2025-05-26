@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\bin\Debug\net8.0\SpecialCharacterInString.exe
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\bin\Debug\net8.0\SpecialCharacterInString.deps.json
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\bin\Debug\net8.0\SpecialCharacterInString.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\bin\Debug\net8.0\SpecialCharacterInString.dll
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\bin\Debug\net8.0\SpecialCharacterInString.pdb
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\SpecialCharacterInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\SpecialCharacterInString.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\SpecialCharacterInString.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\SpecialCharacterInString.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\SpecialCharacterInString.dll
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\refint\SpecialCharacterInString.dll
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\SpecialCharacterInString.pdb
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\SpecialCharacterInString.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\SpecialCharacterInString\SpecialCharacterInString\obj\Debug\net8.0\ref\SpecialCharacterInString.dll

@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\bin\Debug\net8.0\RocketLandingGame.exe
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\bin\Debug\net8.0\RocketLandingGame.deps.json
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\bin\Debug\net8.0\RocketLandingGame.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\bin\Debug\net8.0\RocketLandingGame.dll
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\bin\Debug\net8.0\RocketLandingGame.pdb
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\RocketLandingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\RocketLandingGame.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\RocketLandingGame.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\RocketLandingGame.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\RocketLandingGame.dll
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\refint\RocketLandingGame.dll
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\RocketLandingGame.pdb
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\RocketLandingGame.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\RocketLandingGame\RocketLandingGame\obj\Debug\net8.0\ref\RocketLandingGame.dll

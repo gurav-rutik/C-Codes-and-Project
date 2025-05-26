@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\bin\Debug\net8.0\SealedMethod.exe
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\bin\Debug\net8.0\SealedMethod.deps.json
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\bin\Debug\net8.0\SealedMethod.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\bin\Debug\net8.0\SealedMethod.dll
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\bin\Debug\net8.0\SealedMethod.pdb
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\SealedMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\SealedMethod.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\SealedMethod.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\SealedMethod.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\SealedMethod.dll
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\refint\SealedMethod.dll
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\SealedMethod.pdb
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\SealedMethod.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\SealedMethod\SealedMethod\obj\Debug\net8.0\ref\SealedMethod.dll
