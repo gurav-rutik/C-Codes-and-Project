@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\bin\Debug\net8.0\CallStachExample.exe
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\bin\Debug\net8.0\CallStachExample.deps.json
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\bin\Debug\net8.0\CallStachExample.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\bin\Debug\net8.0\CallStachExample.dll
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\bin\Debug\net8.0\CallStachExample.pdb
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\CallStachExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\CallStachExample.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\CallStachExample.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\CallStachExample.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\CallStachExample.dll
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\refint\CallStachExample.dll
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\CallStachExample.pdb
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\CallStachExample.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\CallStachExample\CallStachExample\obj\Debug\net8.0\ref\CallStachExample.dll
