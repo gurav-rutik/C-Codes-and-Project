@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\bin\Debug\net8.0\DoubleExample.exe
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\bin\Debug\net8.0\DoubleExample.deps.json
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\bin\Debug\net8.0\DoubleExample.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\bin\Debug\net8.0\DoubleExample.dll
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\bin\Debug\net8.0\DoubleExample.pdb
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\DoubleExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\DoubleExample.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\DoubleExample.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\DoubleExample.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\DoubleExample.dll
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\refint\DoubleExample.dll
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\DoubleExample.pdb
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\DoubleExample.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\DoubleExample\DoubleExample\obj\Debug\net8.0\ref\DoubleExample.dll

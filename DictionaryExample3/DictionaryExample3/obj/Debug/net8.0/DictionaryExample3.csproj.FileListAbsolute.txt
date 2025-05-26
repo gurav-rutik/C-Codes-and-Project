@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\bin\Debug\net8.0\DictionaryExample3.exe
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\bin\Debug\net8.0\DictionaryExample3.deps.json
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\bin\Debug\net8.0\DictionaryExample3.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\bin\Debug\net8.0\DictionaryExample3.dll
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\bin\Debug\net8.0\DictionaryExample3.pdb
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\DictionaryExample3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\DictionaryExample3.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\DictionaryExample3.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\DictionaryExample3.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\DictionaryExample3.dll
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\refint\DictionaryExample3.dll
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\DictionaryExample3.pdb
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\DictionaryExample3.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\DictionaryExample3\DictionaryExample3\obj\Debug\net8.0\ref\DictionaryExample3.dll
