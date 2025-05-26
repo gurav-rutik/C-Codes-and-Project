@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\bin\Debug\net8.0\2DArray.exe
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\bin\Debug\net8.0\2DArray.deps.json
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\bin\Debug\net8.0\2DArray.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\bin\Debug\net8.0\2DArray.dll
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\bin\Debug\net8.0\2DArray.pdb
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\2DArray.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\2DArray.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\2DArray.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\2DArray.dll
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\refint\2DArray.dll
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\2DArray.pdb
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\2DArray.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\2DArray\2DArray\obj\Debug\net8.0\ref\2DArray.dll
