@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\bin\Debug\net8.0\Exception1.exe
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\bin\Debug\net8.0\Exception1.deps.json
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\bin\Debug\net8.0\Exception1.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\bin\Debug\net8.0\Exception1.dll
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\bin\Debug\net8.0\Exception1.pdb
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\Exception1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\Exception1.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\Exception1.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\Exception1.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\Exception1.dll
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\refint\Exception1.dll
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\Exception1.pdb
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\Exception1.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\Exception1\Exception1\obj\Debug\net8.0\ref\Exception1.dll
