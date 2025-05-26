@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\bin\Debug\net8.0\MultipleInheritanceExample.exe
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\bin\Debug\net8.0\MultipleInheritanceExample.deps.json
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\bin\Debug\net8.0\MultipleInheritanceExample.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\bin\Debug\net8.0\MultipleInheritanceExample.dll
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\bin\Debug\net8.0\MultipleInheritanceExample.pdb
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\MultipleInheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\MultipleInheritanceExample.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\MultipleInheritanceExample.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\MultipleInheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\MultipleInheritanceExample.dll
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\refint\MultipleInheritanceExample.dll
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\MultipleInheritanceExample.pdb
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\MultipleInheritanceExample.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\MultipleInheritanceExample\MultipleInheritanceExample\obj\Debug\net8.0\ref\MultipleInheritanceExample.dll
