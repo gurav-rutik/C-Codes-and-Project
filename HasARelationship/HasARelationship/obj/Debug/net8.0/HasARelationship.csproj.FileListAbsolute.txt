@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\bin\Debug\net8.0\HasARelationship.exe
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\bin\Debug\net8.0\HasARelationship.deps.json
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\bin\Debug\net8.0\HasARelationship.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\bin\Debug\net8.0\HasARelationship.dll
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\bin\Debug\net8.0\HasARelationship.pdb
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\HasARelationship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\HasARelationship.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\HasARelationship.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\HasARelationship.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\HasARelationship.dll
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\refint\HasARelationship.dll
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\HasARelationship.pdb
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\HasARelationship.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\HasARelationship\HasARelationship\obj\Debug\net8.0\ref\HasARelationship.dll
