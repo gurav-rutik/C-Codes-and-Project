@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\bin\Debug\net8.0\ControlTrasferStatement.exe
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\bin\Debug\net8.0\ControlTrasferStatement.deps.json
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\bin\Debug\net8.0\ControlTrasferStatement.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\bin\Debug\net8.0\ControlTrasferStatement.dll
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\bin\Debug\net8.0\ControlTrasferStatement.pdb
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\ControlTrasferStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\ControlTrasferStatement.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\ControlTrasferStatement.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\ControlTrasferStatement.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\ControlTrasferStatement.dll
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\refint\ControlTrasferStatement.dll
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\ControlTrasferStatement.pdb
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\ControlTrasferStatement.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\ControlTrasferStatement\ControlTrasferStatement\obj\Debug\net8.0\ref\ControlTrasferStatement.dll
