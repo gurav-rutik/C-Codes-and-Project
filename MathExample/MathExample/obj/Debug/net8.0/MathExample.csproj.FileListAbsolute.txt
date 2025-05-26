@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\bin\Debug\net8.0\MathExample.exe
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\bin\Debug\net8.0\MathExample.deps.json
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\bin\Debug\net8.0\MathExample.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\bin\Debug\net8.0\MathExample.dll
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\bin\Debug\net8.0\MathExample.pdb
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\MathExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\MathExample.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\MathExample.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\MathExample.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\MathExample.dll
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\refint\MathExample.dll
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\MathExample.pdb
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\MathExample.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\MathExample\MathExample\obj\Debug\net8.0\ref\MathExample.dll
