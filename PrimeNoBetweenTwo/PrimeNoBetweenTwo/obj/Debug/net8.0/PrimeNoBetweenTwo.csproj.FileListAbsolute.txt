@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\bin\Debug\net8.0\PrimeNoBetweenTwo.exe
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\bin\Debug\net8.0\PrimeNoBetweenTwo.deps.json
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\bin\Debug\net8.0\PrimeNoBetweenTwo.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\bin\Debug\net8.0\PrimeNoBetweenTwo.dll
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\bin\Debug\net8.0\PrimeNoBetweenTwo.pdb
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\PrimeNoBetweenTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\PrimeNoBetweenTwo.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\PrimeNoBetweenTwo.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\PrimeNoBetweenTwo.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\PrimeNoBetweenTwo.dll
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\refint\PrimeNoBetweenTwo.dll
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\PrimeNoBetweenTwo.pdb
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\PrimeNoBetweenTwo.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\PrimeNoBetweenTwo\PrimeNoBetweenTwo\obj\Debug\net8.0\ref\PrimeNoBetweenTwo.dll

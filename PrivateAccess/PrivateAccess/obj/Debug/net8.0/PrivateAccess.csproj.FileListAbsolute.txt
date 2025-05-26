@@ -1,0 +1,14 @@
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\bin\Debug\net8.0\PrivateAccess.exe
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\bin\Debug\net8.0\PrivateAccess.deps.json
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\bin\Debug\net8.0\PrivateAccess.runtimeconfig.json
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\bin\Debug\net8.0\PrivateAccess.dll
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\bin\Debug\net8.0\PrivateAccess.pdb
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\PrivateAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\PrivateAccess.AssemblyInfoInputs.cache
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\PrivateAccess.AssemblyInfo.cs
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\PrivateAccess.csproj.CoreCompileInputs.cache
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\PrivateAccess.dll
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\refint\PrivateAccess.dll
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\PrivateAccess.pdb
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\PrivateAccess.genruntimeconfig.cache
+C:\Users\RutikGurav\source\repos\PrivateAccess\PrivateAccess\obj\Debug\net8.0\ref\PrivateAccess.dll
